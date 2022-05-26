@@ -1,0 +1,465 @@
+,Article_Title,Label,All_Labels,Link
+0,Absolute Value,1,1,https://en.wikipedia.org/wiki/Absolute_value
+1,addition theorem,1,1,https://en.wikipedia.org/wiki/Addition_theorem
+2,Adjoint of a matrix,2,2,https://en.wikipedia.org/wiki/Adjugate_matrix
+3,Algebra of sets,2,2,https://en.wikipedia.org/wiki/Algebra_of_sets
+4,Algorithm,2,2,https://en.wikipedia.org/wiki/Algorithm
+5,Altitude (triangle),2,"2,3",https://en.wikipedia.org/wiki/Altitude_(triangle)
+6,Angular Bisector Theorem,1,1,https://en.wikipedia.org/wiki/Angle_bisector_theorem
+7,Antiderivative,2,"2,2,3",https://en.wikipedia.org/wiki/Antiderivative
+8,Area under curve,3,3,https://en.wikipedia.org/wiki/Area_under_the_curve_(pharmacokinetics)
+9,Arithmetic mean,1,"1,1,1,1",https://en.wikipedia.org/wiki/Arithmetic_mean
+10,Arithmetic progression,1,"0,1,1,1,1,1,2",https://en.wikipedia.org/wiki/Arithmetic_progression
+11,Arithmetic Geometric Sequence,2,2,https://en.wikipedia.org/wiki/Arithmetico%E2%80%93geometric_sequence
+12,Arithmetico–geometric sequence,3,3,https://en.wikipedia.org/wiki/Arithmetico–geometric_sequence
+13,Asymptote,2,"2,3",https://en.wikipedia.org/wiki/Asymptote
+14,Basis vector,2,2,https://en.wikipedia.org/wiki/Basis_(linear_algebra)
+15,Bayes Theorem,2,"1,2,2,2,2,2,2,2,3",https://en.wikipedia.org/wiki/Bayes%27_theorem
+16,Bayesian Probability,3,3,https://en.wikipedia.org/wiki/Bayesian_probability
+17,Bennett's inequality,1,1,https://en.wikipedia.org/wiki/Bennett%27s_inequality
+18,Transformation to a linear differential equation,3,3,https://en.wikipedia.org/wiki/Bernoulli_differential_equation
+19,Bernoulli trials,1,"1,3",https://en.wikipedia.org/wiki/Bernoulli_trial
+20,Bertrand's postulate,1,1,https://en.wikipedia.org/wiki/Bertrand%27s_postulate
+21,Beta Function,3,3,https://en.wikipedia.org/wiki/Beta_function
+22,Bijective function,2,2,https://en.wikipedia.org/wiki/Bijection
+23,"Bijection, injection and surjection",1,1,"https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection"
+24,Bijective numeration,0,0,https://en.wikipedia.org/wiki/Bijective_numeration
+25,Binary operation,1,1,https://en.wikipedia.org/wiki/Binary_operation
+26,Binary Relation,2,2,https://en.wikipedia.org/wiki/Binary_relation
+27,properties of binomial coefficients,1,"1,1,2,3",https://en.wikipedia.org/wiki/Binomial_coefficient
+28,Binomial Distribution,2,"2,2,2,3",https://en.wikipedia.org/wiki/Binomial_distribution
+29,Binomial Series,2,2,https://en.wikipedia.org/wiki/Binomial_series
+30,Tangent properties of parabola,3,"2,3,3,3",https://en.wikipedia.org/wiki/Binomial_theorem
+31,Borel Cantelli Lemma,2,2,https://en.wikipedia.org/wiki/Borel%E2%80%93Cantelli_lemma
+32,Calculus,1,"0,1,1,2,2",https://en.wikipedia.org/wiki/Calculus
+33,Cantor's theorem,3,3,https://en.wikipedia.org/wiki/Cantor%27s_theorem
+34,Cartesian Coordinates,1,"1,1,1,1,2,2",https://en.wikipedia.org/wiki/Cartesian_coordinate_system
+35,Cartesian Product,1,1,https://en.wikipedia.org/wiki/Cartesian_product
+36,Categorical distribution,0,0,https://en.wikipedia.org/wiki/Categorical_distribution
+37,Discrete Mathematics,1,1,https://en.wikipedia.org/wiki/Category:Discrete_mathematics
+38,cauchy schwarz inequality,2,2,https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality
+39,Cauchy Distribution,2,2,https://en.wikipedia.org/wiki/Cauchy_distribution
+40,Cauchy Sequence,0,0,https://en.wikipedia.org/wiki/Cauchy_sequence
+41,Cauchy–Schwarz inequality,2,2,https://en.wikipedia.org/wiki/Cauchy–Schwarz_inequality
+42,Cayley–Hamilton theorem,2,2,https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem
+43,central limit theorm,0,"0,2",https://en.wikipedia.org/wiki/Central_limit_theorem
+44,Central Tendency,0,0,https://en.wikipedia.org/wiki/Central_tendency
+45,Centroid,1,1,https://en.wikipedia.org/wiki/Centroid
+46,Chain Rule,1,"1,2",https://en.wikipedia.org/wiki/Chain_rule
+47,Chebyshev's inequality,2,"2,3",https://en.wikipedia.org/wiki/Chebyshev%27s_inequality
+48,Chernoff bound,2,2,https://en.wikipedia.org/wiki/Chernoff_bound
+49,Chi-squared_Distribution,0,0,https://en.wikipedia.org/wiki/Chi-squared_distribution
+50,Chi-squared_test,0,0,https://en.wikipedia.org/wiki/Chi-squared_test
+51,Chinese Remainder Theorem,2,2,https://en.wikipedia.org/wiki/Chinese_remainder_theorem
+52,Chord,1,1,https://en.wikipedia.org/wiki/Chord_(geometry)
+53,Circle construction with non linear points,1,"0,1,1,1,1,1,1,2,2,2,2",https://en.wikipedia.org/wiki/Circle
+54,circumcentre of a triangle,2,2,https://en.wikipedia.org/wiki/Circumscribed_circle
+55,Classification of discontinuities,2,2,https://en.wikipedia.org/wiki/Classification_of_discontinuities
+56,clockwise,1,1,https://en.wikipedia.org/wiki/Clockwise
+57,Codomain of a Function,1,1,https://en.wikipedia.org/wiki/Codomain
+58,Coefficient matrix,2,2,https://en.wikipedia.org/wiki/Coefficient_matrix
+59,Coefficient of variation,2,2,https://en.wikipedia.org/wiki/Coefficient_of_variation
+60,Combination,2,"1,1,2,2,2",https://en.wikipedia.org/wiki/Combination
+61,permutations and combinations,1,"1,3",https://en.wikipedia.org/wiki/Combinations_and_permutations
+62,Sets complement,1,"1,1",https://en.wikipedia.org/wiki/Complement_(set_theory)
+63,Complementary Event,1,1,https://en.wikipedia.org/wiki/Complementary_event
+64,Completing The square method,1,1,https://en.wikipedia.org/wiki/Completing_the_square
+65,Complex analysis,2,2,https://en.wikipedia.org/wiki/Complex_analysis
+66,complex conjugate number,1,1,https://en.wikipedia.org/wiki/Complex_conjugate
+67,Complex Numbers,2,"0,1,1,1,1,2,2,2,2,2,2,3,3",https://en.wikipedia.org/wiki/Complex_number
+68,Complex Plane,2,"2,2",https://en.wikipedia.org/wiki/Complex_plane
+69,Composite Number,1,1,https://en.wikipedia.org/wiki/Composite_number
+70,concave function,2,2,https://en.wikipedia.org/wiki/Concave_function
+71,concurrency of lines,1,"1,2",https://en.wikipedia.org/wiki/Concurrent_lines
+72,conditional dependence,2,2,https://en.wikipedia.org/wiki/Conditional_dependence
+73,Conditional Probabaility,1,"1,1,2,2,3,3",https://en.wikipedia.org/wiki/Conditional_probability
+74,conditional Probability distribution,3,3,https://en.wikipedia.org/wiki/Conditional_probability_distribution
+75,Congruence,1,1,https://en.wikipedia.org/wiki/Congruence_(geometry)
+76,Conic Sections,2,"0,2,2",https://en.wikipedia.org/wiki/Conic_section
+77,Connectivity,1,1,https://en.wikipedia.org/wiki/Connectivity_(graph_theory)
+78,Constant Function,1,1,https://en.wikipedia.org/wiki/Constant_function
+79,Constant of integration,1,1,https://en.wikipedia.org/wiki/Constant_of_integration
+80,Continued fraction,2,2,https://en.wikipedia.org/wiki/Continued_fraction
+81,Continuous function,2,"1,2,2",https://en.wikipedia.org/wiki/Continuous_function
+82,Convergent series,3,3,https://en.wikipedia.org/wiki/Convergent_series
+83,convex function,2,2,https://en.wikipedia.org/wiki/Convex_function
+84,Convex_optimization,0,0,https://en.wikipedia.org/wiki/Convex_optimization
+85,Convolutions,2,2,https://en.wikipedia.org/wiki/Convolution
+86,Coordinate Geometry,1,"1,1",https://en.wikipedia.org/wiki/Coordinate_system
+87,Coplanarity,2,2,https://en.wikipedia.org/wiki/Coplanarity
+88,Covariance matrix,0,0,https://en.wikipedia.org/wiki/Covariance_matrix
+89,Cramer's rule,2,2,https://en.wikipedia.org/wiki/Cramer%27s_rule
+90,Cramer's theorem(algebraic curves),0,0,https://en.wikipedia.org/wiki/Cramer%27s_theorem_(algebraic_curves)
+91,Cross Product,1,"1,1,1,1,2,2",https://en.wikipedia.org/wiki/Cross_product
+92,Cube (algebra),1,1,https://en.wikipedia.org/wiki/Cube_(algebra)
+93,Cube Roots,2,2,https://en.wikipedia.org/wiki/Cube_root
+94,Cubic Equation,2,"2,3",https://en.wikipedia.org/wiki/Cubic_equation
+95,Cumulative Distribution Frequency,2,2,https://en.wikipedia.org/wiki/Cumulative_distribution_function
+96,curve,2,2,https://en.wikipedia.org/wiki/Curve
+97,Cyclic Permutation,2,"2,2",https://en.wikipedia.org/wiki/Cyclic_permutation
+98,cylindrical cooridnate system,0,0,https://en.wikipedia.org/wiki/Cylindrical_coordinate_system
+99,De Moivre's formula,2,2,https://en.wikipedia.org/wiki/De_Moivre%27s_formula
+100,De-Moivre Laplace Theorem,0,0,https://en.wikipedia.org/wiki/De_Moivre–Laplace_theorem
+101,De Morgan's law,1,"1,1,1",https://en.wikipedia.org/wiki/De_Morgan%27s_laws
+102,Degenerate Conic,0,0,https://en.wikipedia.org/wiki/Degenerate_conic
+103,Derangement,3,3,https://en.wikipedia.org/wiki/Derangement
+104,Derivative,1,"0,1,1,1,1,1,2",https://en.wikipedia.org/wiki/Derivative
+105,Determiant of Square matrix,2,"1,1,1,2,2,2,2",https://en.wikipedia.org/wiki/Determinant
+106,Determinant,2,2,https://en.wikipedia.org/wiki/Determinant2
+107,Diagonal Matrix,1,"1,1,1,1",https://en.wikipedia.org/wiki/Diagonal_matrix
+108,Differentiable function,2,"2,2",https://en.wikipedia.org/wiki/Differentiable_function
+109,Differential algebra,0,0,https://en.wikipedia.org/wiki/Differential_algebra
+110,Differential calculus,2,"2,2",https://en.wikipedia.org/wiki/Differential_calculus
+111,Differential Equation,0,"0,2,3",https://en.wikipedia.org/wiki/Differential_equation
+112,differntiation,2,2,https://en.wikipedia.org/wiki/Differentiation
+113,Differentiation of trigonometric functions,1,"1,2",https://en.wikipedia.org/wiki/Differentiation_of_trigonometric_functions
+114,"derivative of the sum, difference, product",1,"1,1,2",https://en.wikipedia.org/wiki/Differentiation_rules
+115,Dihedral angle,3,3,https://en.wikipedia.org/wiki/Dihedral_angle
+116,Diophantine Geometry,0,0,https://en.wikipedia.org/wiki/Diophantine_geometry
+117,Directed Graph,1,1,https://en.wikipedia.org/wiki/Directed_graph
+118,Direction cosine,2,"1,2,2,3",https://en.wikipedia.org/wiki/Direction_cosine
+119,Directional Derivative,3,3,https://en.wikipedia.org/wiki/Directional_derivative
+120,Director circle,2,2,https://en.wikipedia.org/wiki/Director_circle
+121,Discriminant,0,"0,1",https://en.wikipedia.org/wiki/Discriminant
+122,distance between two points,1,"1,1",https://en.wikipedia.org/wiki/Distance
+123,distance between two parallel lines,1,1,https://en.wikipedia.org/wiki/Distance_between_two_parallel_lines
+124,Distance from a point to a line,2,"2,2",https://en.wikipedia.org/wiki/Distance_from_a_point_to_a_line
+125,distance of a point from a plane,1,1,https://en.wikipedia.org/wiki/Distance_from_a_point_to_a_plane
+126,Division algorithm,1,1,https://en.wikipedia.org/wiki/Division_algorithm
+127,Division By Zero,1,1,https://en.wikipedia.org/wiki/Division_by_zero
+128,Domain of a Function,1,1,https://en.wikipedia.org/wiki/Domain_of_a_function
+129,dot and cross products,1,"1,1,1,1,2",https://en.wikipedia.org/wiki/Dot_product
+130,dynamical system,3,3,https://en.wikipedia.org/wiki/Dynamical_system
+131,Napier's Constant,2,2,https://en.wikipedia.org/wiki/E_(mathematical_constant)
+132,Eccentricity,1,"1,2",https://en.wikipedia.org/wiki/Eccentricity_(mathematics)
+133,Eigen function,0,0,https://en.wikipedia.org/wiki/Eigenfunction
+134,Elementary Event,1,1,https://en.wikipedia.org/wiki/Elementary_event
+135,Elementary matrix,1,1,https://en.wikipedia.org/wiki/Elementary_matrix
+136,Ellipse,2,"1,2,2,2,3",https://en.wikipedia.org/wiki/Ellipse
+137,Ellipsoid,3,3,https://en.wikipedia.org/wiki/Ellipsoid
+138,Engel expansion,0,0,https://en.wikipedia.org/wiki/Engel_expansion
+139,equiprobable,1,1,https://en.wikipedia.org/wiki/Equiprobability
+140,Equivalence Relation,2,2,https://en.wikipedia.org/wiki/Equivalence_relation
+141,Euclid Lemma,2,2,https://en.wikipedia.org/wiki/Euclid%27s_lemma
+142,conditional dependence,1,1,https://en.wikipedia.org/wiki/Euclidean_geometry
+143,Euclidean space,3,3,https://en.wikipedia.org/wiki/Euclidean_space
+144,Addition of vectors,1,"1,1",https://en.wikipedia.org/wiki/Euclidean_vector
+145,Eulers formula and identity,2,"2,3",https://en.wikipedia.org/wiki/Euler%27s_formula
+146,Even and odd functions,1,"1,1,1",https://en.wikipedia.org/wiki/Even_and_odd_functions
+147,Event,1,"1,1",https://en.wikipedia.org/wiki/Event_(probability_theory)
+148,Expectation of a random Variable,3,3,https://en.wikipedia.org/wiki/Expected_value
+149,Experiment Probability Theory,1,1,https://en.wikipedia.org/wiki/Experiment_(probability_theory)
+150,Exponential function,2,"0,2,2",https://en.wikipedia.org/wiki/Exponential_function
+151,Extreme Value Theorem,2,2,https://en.wikipedia.org/wiki/Extreme_value_theorem
+152,Factor Theorem,1,1,https://en.wikipedia.org/wiki/Factor_theorem
+153,Factorial,1,1,https://en.wikipedia.org/wiki/Factorial
+154,Factorial moments,2,2,https://en.wikipedia.org/wiki/Factorial_moment
+155,Fermat's Last Theorem,3,3,https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem
+156,Fibonacci Sequences,1,1,https://en.wikipedia.org/wiki/Fibonacci_number
+157,Ellipse,2,2,https://en.wikipedia.org/wiki/File:Ellipse-def0.svg
+158,Finite Field,0,0,https://en.wikipedia.org/wiki/Finite_field
+159,Predicate / First Order Logic,0,"0,1",https://en.wikipedia.org/wiki/First-order_logic
+160,Greatest Integer Function,1,"1,1",https://en.wikipedia.org/wiki/Floor_and_ceiling_functions
+161,Focus(geometry),1,1,https://en.wikipedia.org/wiki/Focus_(geometry)
+162,Four Color Theorem,0,0,https://en.wikipedia.org/wiki/Four_color_theorem
+163,Fourier expansion,0,"0,0",https://en.wikipedia.org/wiki/Fourier_series
+164,Fourier Transform,3,3,https://en.wikipedia.org/wiki/Fourier_transform
+165,Frequency distribution,0,"0,2",https://en.wikipedia.org/wiki/Frequency_distribution
+166,Functions,1,"1,1,1,3",https://en.wikipedia.org/wiki/Function_(mathematics)
+167,composite functions,3,"1,2,3,3",https://en.wikipedia.org/wiki/Function_composition
+168,Function of real variable,1,1,https://en.wikipedia.org/wiki/Function_of_a_real_variable
+169,Canonical Representation of a positive integer,1,1,https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic
+170,Fundamental theorem of calculus,1,"1,1,2",https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus
+171,Game Theory,1,1,https://en.wikipedia.org/wiki/Game_theory
+172,Gamma Function,3,3,https://en.wikipedia.org/wiki/Gamma_function
+173,Gaussian elimination,2,2,https://en.wikipedia.org/wiki/Gaussian_elimination
+174,Geometric Mean,1,"1,2,3",https://en.wikipedia.org/wiki/Geometric_mean
+175,Geometric probability,1,1,https://en.wikipedia.org/wiki/Geometric_probability
+176,Infinite Geometric Progrtession,2,"1,2,2,2,3",https://en.wikipedia.org/wiki/Geometric_progression
+177,Geometric Series,1,1,https://en.wikipedia.org/wiki/Geometric_series
+178,Golden Ratio,0,0,https://en.wikipedia.org/wiki/Golden_ratio
+179,Goodness of fit,0,0,https://en.wikipedia.org/wiki/Goodness_of_fit
+180,Gradient,0,"0,1",https://en.wikipedia.org/wiki/Gradient
+181,Gram matrix,2,2,https://en.wikipedia.org/wiki/Gram_matrix
+182,Graph Theory,1,1,https://en.wikipedia.org/wiki/Graph_theory
+183,Green's therom,3,3,https://en.wikipedia.org/wiki/Green%27s_theorem
+184,grouped data,1,1,https://en.wikipedia.org/wiki/Grouped_data
+185,Harmonic Analysis,1,1,https://en.wikipedia.org/wiki/Harmonic_analysis
+186,Harmonic Mean,1,"1,1,2,2",https://en.wikipedia.org/wiki/Harmonic_mean
+187,Harmonic progression,1,1,https://en.wikipedia.org/wiki/Harmonic_progression
+188,Harmonic progression (mathematics),1,"1,1,2",https://en.wikipedia.org/wiki/Harmonic_progression_(mathematics)
+189,Hermitian matrix,2,2,https://en.wikipedia.org/wiki/Hermitian_matrix
+190,hessian matrix,2,2,https://en.wikipedia.org/wiki/Hessian_matrix
+191,Hidden_markov_model,0,0,https://en.wikipedia.org/wiki/Hidden_Markov_model
+192,Higher-Order Logic,2,2,https://en.wikipedia.org/wiki/Higher-order_logic
+193,Histogram,1,1,https://en.wikipedia.org/wiki/Histogram
+194,Hoeffding's Lemma,2,2,https://en.wikipedia.org/wiki/Hoeffding%27s_lemma
+195,Homogenous differential equation,3,"3,3",https://en.wikipedia.org/wiki/Homogeneous_differential_equation
+196,Homogenous Polynomial,1,1,https://en.wikipedia.org/wiki/Homogeneous_polynomial
+197,hyperbola,2,"1,1,2,2,2,2,2,3,3",https://en.wikipedia.org/wiki/Hyperbola
+198,Hyperbolic functions,2,2,https://en.wikipedia.org/wiki/Hyperbolic_functions
+199,Hyperboloid,3,3,https://en.wikipedia.org/wiki/Hyperboloid
+200,Hypergeometric Distribution,0,"0,0",https://en.wikipedia.org/wiki/Hypergeometric_distribution
+201,Identity Functions,2,2,https://en.wikipedia.org/wiki/Identity_function
+202,Imaginary Numbers,1,"1,2",https://en.wikipedia.org/wiki/Imaginary_number
+203,Implicit Functions,1,1,https://en.wikipedia.org/wiki/Implicit_function
+204,implicit function theorm,2,"2,2",https://en.wikipedia.org/wiki/Implicit_function_theorem
+205,Improper integral,2,2,https://en.wikipedia.org/wiki/Improper_integral
+206,Incenter,2,2,https://en.wikipedia.org/wiki/Incenter
+207,Incircle and excircles of a triangle,3,3,https://en.wikipedia.org/wiki/Incircle_and_excircles_of_a_triangle
+208,independence of events,1,"1,1,2",https://en.wikipedia.org/wiki/Independence_(probability_theory)
+209,Index of dispersion,3,3,https://en.wikipedia.org/wiki/Index_of_dispersion
+210,Inellipse,2,2,https://en.wikipedia.org/wiki/Inellipse
+211,Inequation,2,2,https://en.wikipedia.org/wiki/Inequation
+212,infimum and supremum,0,0,https://en.wikipedia.org/wiki/Infimum_and_supremum
+213,onto and one-to-one functions,1,"1,2",https://en.wikipedia.org/wiki/Injective_function
+214,Inner product space,2,2,https://en.wikipedia.org/wiki/Inner_product_space
+215,Integer factorization,1,1,https://en.wikipedia.org/wiki/Integer_factorization
+216,Integral,1,"1,1,1,3,3",https://en.wikipedia.org/wiki/Integral
+217,Integration as the inverse process of differentiation,3,3,https://en.wikipedia.org/wiki/Integral_of_inverse_functions
+218,Integration By Parts,3,"1,1,2,2,2,3,3,3,3,3,3",https://en.wikipedia.org/wiki/Integration_by_parts
+219,Integration by substitution,1,"1,2,3",https://en.wikipedia.org/wiki/Integration_by_substitution
+220,Intermediate Value Theorem,2,"2,2",https://en.wikipedia.org/wiki/Intermediate_value_theorem
+221,intersection of a circle with a straight line,2,2,https://en.wikipedia.org/wiki/Intersection_(Euclidean_geometry)
+222,Sets Intersections,1,1,https://en.wikipedia.org/wiki/Intersection_(set_theory)
+223,Intervals,1,1,https://en.wikipedia.org/wiki/Interval_(mathematics)
+224,Inverse of a Function,2,2,https://en.wikipedia.org/wiki/Inverse_function
+225,Inverse Function Theorem,3,3,https://en.wikipedia.org/wiki/Inverse_function_theorem
+226,Inverse Probability,2,2,https://en.wikipedia.org/wiki/Inverse_probability
+227,inverse trigonometric functions,2,"1,2,2,2,2,3,3,3",https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
+228,Inverse of a Matrix,2,"1,2,2,2,3",https://en.wikipedia.org/wiki/Invertible_matrix
+229,Isomorphism,2,2,https://en.wikipedia.org/wiki/Isomorphism
+230,Jacobian Matrix,2,"2,2,3",https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant
+231,Joint Probability distribution,2,2,https://en.wikipedia.org/wiki/Joint_probability_distribution
+232,Jordan normal form,2,2,https://en.wikipedia.org/wiki/Jordan_normal_form
+233,L'Hopital's Rule,2,"1,1,1,2,2,2,2,3",https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule
+234,Lagrange_multiplier,0,0,https://en.wikipedia.org/wiki/Lagrange_multiplier
+235,cosine rule,0,0,https://en.wikipedia.org/wiki/Law_of_cosines
+236,Law of sines,0,"0,1,2",https://en.wikipedia.org/wiki/Law_of_sines
+237,Law of total Probability,3,3,https://en.wikipedia.org/wiki/Law_of_total_probability
+238,Leibniz notation,2,2,https://en.wikipedia.org/wiki/Leibniz%27s_notation
+239,Leibnitz Integral rule,3,"0,3,3",https://en.wikipedia.org/wiki/Leibniz_integral_rule
+240,likelyhood function,0,0,https://en.wikipedia.org/wiki/Likelihood_function
+241,Limit and continuity of a function,0,"0,2,3",https://en.wikipedia.org/wiki/Limit_of_a_function
+242,Lindeburg's condition,2,2,https://en.wikipedia.org/wiki/Lindeberg%27s_condition
+243,Straight Lines,1,"1,1,1",https://en.wikipedia.org/wiki/Line_(geometry)
+244,Line Integral,1,"1,3",https://en.wikipedia.org/wiki/Line_integral
+245,length of line segment,1,1,https://en.wikipedia.org/wiki/Line_segment
+246,Linear Algebra,1,"1,2",https://en.wikipedia.org/wiki/Linear_algebra
+247,Linear Combination,1,1,https://en.wikipedia.org/wiki/Linear_combination
+248,First order equation with variable coefficients,2,"2,3",https://en.wikipedia.org/wiki/Linear_differential_equation
+249,Equation of Line in Various Forms,1,"1,1,1,3",https://en.wikipedia.org/wiki/Linear_equation
+250,Linear Map,0,0,https://en.wikipedia.org/wiki/Linear_map
+251,Linear programming,2,2,https://en.wikipedia.org/wiki/Linear_programming
+252,Linear Span,0,0,https://en.wikipedia.org/wiki/Linear_span
+253,Linear Subspace,2,2,https://en.wikipedia.org/wiki/Linear_subspace
+254,Linearization,2,2,https://en.wikipedia.org/wiki/Linearization
+255,definite integrals and their properties,3,3,https://en.wikipedia.org/wiki/List_of_definite_integrals
+256,list of formulas in elementarty geometry,1,1,https://en.wikipedia.org/wiki/List_of_formulas_in_elementary_geometry
+257,List Of Integrals of Exponential Functions,1,1,https://en.wikipedia.org/wiki/List_of_integrals_of_exponential_functions
+258,List of Integrals of Inverse Trigonometric Functions,2,2,https://en.wikipedia.org/wiki/List_of_integrals_of_inverse_trigonometric_functions
+259,List of Integrals of Irrational Functions,2,2,https://en.wikipedia.org/wiki/List_of_integrals_of_irrational_functions
+260,List Of Integrals of Logarithmic Functions,2,2,https://en.wikipedia.org/wiki/List_of_integrals_of_logarithmic_functions
+261,List Of Integrals of Trigonometric Functions,2,2,https://en.wikipedia.org/wiki/List_of_integrals_of_trigonometric_functions
+262,Logarithm Identities,1,1,https://en.wikipedia.org/wiki/List_of_logarithmic_identities
+263,Half-angle formula,2,"0,2,2,2,3",https://en.wikipedia.org/wiki/List_of_trigonometric_identities
+264,half-angle formula,1,1,https://en.wikipedia.org/wiki/List_of_trigonometric_identitiess
+265,List of Integrals,1,"1,2",https://en.wikipedia.org/wiki/Lists_of_integrals
+266,Locus problems,0,0,https://en.wikipedia.org/wiki/Locus
+267,Locus (mathematics),2,"1,2,2,2",https://en.wikipedia.org/wiki/Locus_(mathematics)
+268,Log-normal distribution,2,2,https://en.wikipedia.org/wiki/Log-normal_distribution
+269,Log sum inequality,0,0,https://en.wikipedia.org/wiki/Log_sum_inequality
+270,Logarithm and Their Properties,1,"1,1,1,1,1,2,2,2",https://en.wikipedia.org/wiki/Logarithm
+271,Logarithm of a matrix,1,1,https://en.wikipedia.org/wiki/Logarithm_of_a_matrix
+272,Logarithmic Derivative,1,1,https://en.wikipedia.org/wiki/Logarithmic_derivative
+273,Logarithmic Differentiation,1,"1,2",https://en.wikipedia.org/wiki/Logarithmic_differentiation
+274,logical operation,0,0,https://en.wikipedia.org/wiki/Logical_connective
+275,Logical reasoning,3,3,https://en.wikipedia.org/wiki/Logical_reasoning
+276,Logistic Distribution,2,2,https://en.wikipedia.org/wiki/Logistic_distribution
+277,Markov's Inequality,2,2,https://en.wikipedia.org/wiki/Markov%27s_inequality
+278,Markov chain,0,0,https://en.wikipedia.org/wiki/Markov_chain
+279,Mathematical logic,0,"0,2",https://en.wikipedia.org/wiki/Mathematical_logic
+280,Mathematical proof,3,3,https://en.wikipedia.org/wiki/Mathematical_proof
+281,Mathmatics,1,1,https://en.wikipedia.org/wiki/Mathematics
+282,Matrix theory,2,"1,2,2,3",https://en.wikipedia.org/wiki/Matrix_(mathematics)
+283,Matrix Determinant Lemma,2,2,https://en.wikipedia.org/wiki/Matrix_determinant_lemma
+284,equality of matrices,0,"0,1",https://en.wikipedia.org/wiki/Matrix_equivalence
+285,multiplication by a scalar and product of matrices,1,1,https://en.wikipedia.org/wiki/Matrix_multiplication
+286,Maxima and minima,1,1,https://en.wikipedia.org/wiki/Maxima_and_minima
+287,Maximum Likelihood Estimation,0,"0,3",https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
+288,mean,1,1,https://en.wikipedia.org/wiki/Mean
+289,Cauchy's Mean Value Theorem,1,"1,1,2,3,3",https://en.wikipedia.org/wiki/Mean_value_theorem
+290,median,1,1,https://en.wikipedia.org/wiki/Median
+291,Menger's Theorem,2,2,https://en.wikipedia.org/wiki/Menger%27s_theorem
+292,Minimax,0,0,https://en.wikipedia.org/wiki/Minimax
+293,Minkowski inequality,0,0,https://en.wikipedia.org/wiki/Minkowski_inequality
+294,mode,1,1,https://en.wikipedia.org/wiki/Mode_(statistics)
+295,model theory,2,2,https://en.wikipedia.org/wiki/Model_theory
+296,Moment-generating function,2,2,https://en.wikipedia.org/wiki/Moment-generating_function
+297,Monotonic function,1,"1,2",https://en.wikipedia.org/wiki/Monotonic_function
+298,Multinomial Theorm,2,"2,3",https://en.wikipedia.org/wiki/Multinomial_theorem
+299,sub-multiple angles,2,2,https://en.wikipedia.org/wiki/Multiple_(mathematics)
+300,Multi integral,3,3,https://en.wikipedia.org/wiki/Multiple_integral
+301,Multiplication theory,3,3,https://en.wikipedia.org/wiki/Multiplication_theorem
+302,Multiplicative Inverse,1,1,https://en.wikipedia.org/wiki/Multiplicative_inverse
+303,Multivariable calculus,2,"2,3",https://en.wikipedia.org/wiki/Multivariable_calculus
+304,Mutually Exclusive Events,1,"1,2",https://en.wikipedia.org/wiki/Mutual_exclusivity
+305,Natural logarithm,2,2,https://en.wikipedia.org/wiki/Natural_logarithm
+306,Natural Number,1,1,https://en.wikipedia.org/wiki/Natural_number
+307,Negative Binomial Distribution,2,2,https://en.wikipedia.org/wiki/Negative_binomial_distribution
+308,negative hypergeometric distribution,0,0,https://en.wikipedia.org/wiki/Negative_hypergeometric_distribution
+309,Newton's laws of motion,1,1,https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
+310,Nine Point Circle,3,3,https://en.wikipedia.org/wiki/Nine-point_circle
+311,Nonprobability Sampling,1,1,https://en.wikipedia.org/wiki/Nonprobability_sampling
+312,Norm,0,0,https://en.wikipedia.org/wiki/Norm_(mathematics)
+313,normal vector,1,1,https://en.wikipedia.org/wiki/Normal_(geometry)
+314,Normal Distribution,0,"0,0,1",https://en.wikipedia.org/wiki/Normal_distribution
+315,Number Theory,2,2,https://en.wikipedia.org/wiki/Number_theory
+316,Ordered Pair,1,1,https://en.wikipedia.org/wiki/Ordered_pair
+317,Formation of ordinary differential equations,0,"0,3",https://en.wikipedia.org/wiki/Ordinary_differential_equation
+318,Orthogonal matrix,1,1,https://en.wikipedia.org/wiki/Orthogonal_matrix
+319,Orthonormal basis,2,2,https://en.wikipedia.org/wiki/Orthonormal_basis
+320,Orthonormality,2,2,https://en.wikipedia.org/wiki/Orthonormality
+321,Palindrome,2,2,https://en.wikipedia.org/wiki/Palindrome
+322,Conic form of a parabola,2,"1,1,2,2,2,2,2,2,2,3",https://en.wikipedia.org/wiki/Parabola
+323,parallel lines,1,1,https://en.wikipedia.org/wiki/Parallel_Lines
+324,Parallelepiped,3,3,https://en.wikipedia.org/wiki/Parallelepiped
+325,parametric equations,2,"1,2,2",https://en.wikipedia.org/wiki/Parametric_equation
+326,Partial derivative,1,1,https://en.wikipedia.org/wiki/Partial_derivative
+327,Partial fraction decomposition,1,"1,2",https://en.wikipedia.org/wiki/Partial_fraction_decomposition
+328,Pascals Triangle,1,"1,1",https://en.wikipedia.org/wiki/Pascal%27s_triangle
+329,Pearson correlation coefficient,3,3,https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
+330,Periodic Functions,2,"2,2",https://en.wikipedia.org/wiki/Periodic_function
+331,periodic sequence,1,1,https://en.wikipedia.org/wiki/Periodic_sequence
+332,Permutation,2,"1,2,2",https://en.wikipedia.org/wiki/Permutation
+333,Permutation matrix,2,2,https://en.wikipedia.org/wiki/Permutation_matrix
+334,Pigeonhole Principle,1,1,https://en.wikipedia.org/wiki/Pigeonhole_principle
+335,Plane geometry,2,"2,2,3,3",https://en.wikipedia.org/wiki/Plane_(geometry)
+336,Poisson Distribution,2,2,https://en.wikipedia.org/wiki/Poisson_distribution
+337,Polar coordinate system,3,3,https://en.wikipedia.org/wiki/Polar_coordinate_system
+338,polygon,2,2,https://en.wikipedia.org/wiki/Polygon
+339,polynomial,1,1,https://en.wikipedia.org/wiki/Polynomial
+340,Polynomial Remainder Theorem,1,1,https://en.wikipedia.org/wiki/Polynomial_remainder_theorem
+341,Polynomial Ring,0,0,https://en.wikipedia.org/wiki/Polynomial_ring
+342,polytope,0,0,https://en.wikipedia.org/wiki/Polytope
+343,Power Law,0,0,https://en.wikipedia.org/wiki/Power_law
+344,Power rule,1,1,https://en.wikipedia.org/wiki/Power_rule
+345,Power series,2,2,https://en.wikipedia.org/wiki/Power_series
+346,Power set,1,"1,2",https://en.wikipedia.org/wiki/Power_set
+347,Powe sum symmetric polynomial,0,0,https://en.wikipedia.org/wiki/Power_sum_symmetric_polynomial
+348,Prime Number,1,1,https://en.wikipedia.org/wiki/Prime_number
+349,Prime number theorem,1,1,https://en.wikipedia.org/wiki/Prime_number_theorem
+350,Independent Events,1,"0,1,1,1,1,3",https://en.wikipedia.org/wiki/Probability
+351,Probability density function,2,"2,3",https://en.wikipedia.org/wiki/Probability_density_function
+352,Probability Distribution,1,1,https://en.wikipedia.org/wiki/Probability_distribution
+353,Probability Mass Function,1,1,https://en.wikipedia.org/wiki/Probability_mass_function
+354,computation of probability of events,1,"0,1,1,3",https://en.wikipedia.org/wiki/Probability_theory
+355,Product Rule,1,1,https://en.wikipedia.org/wiki/Product_rule
+356,progressions,1,1,https://en.wikipedia.org/wiki/Progression
+357,Projection (mathematics),2,2,https://en.wikipedia.org/wiki/Projection_(mathematics)
+358,Projective plane,3,3,https://en.wikipedia.org/wiki/Projective_plane
+359,Proof by Contradiction,0,"0,2",https://en.wikipedia.org/wiki/Proof_by_contradiction
+360,Prepositional Logic,1,1,https://en.wikipedia.org/wiki/Propositional_calculus
+361,Ptolemy theorm,1,1,https://en.wikipedia.org/wiki/Ptolemy%27s_theorem
+362,Pythagoras theorem,1,1,https://en.wikipedia.org/wiki/Pythagorean_theorem
+363,Quadratic Equation,1,"1,1,1,1,1,1,1,1,2",https://en.wikipedia.org/wiki/Quadratic_equation
+364,Quadratic Formula,1,1,https://en.wikipedia.org/wiki/Quadratic_formula
+365,Quadratic Function,1,"1,1",https://en.wikipedia.org/wiki/Quadratic_function
+366,Quantile Function,0,0,https://en.wikipedia.org/wiki/Quantile_function
+367,Quantum algorithm for linear systems of equations,0,0,https://en.wikipedia.org/wiki/Quantum_algorithm_for_linear_systems_of_equations
+368,Quartiles,2,2,https://en.wikipedia.org/wiki/Quartile
+369,Quotient rule,1,"1,1,2",https://en.wikipedia.org/wiki/Quotient_rule
+370,Ramanujan's sum,1,1,https://en.wikipedia.org/wiki/Ramanujan%27s_sum
+371,Random Variable,2,2,https://en.wikipedia.org/wiki/Random_variable
+372,Random Walk,0,0,https://en.wikipedia.org/wiki/Random_walk
+373,Range of a Function,1,1,https://en.wikipedia.org/wiki/Range_of_a_function
+374,Rank of a Matrix,0,0,https://en.wikipedia.org/wiki/Rank_(linear_algebra)
+375,Rational Number,1,1,https://en.wikipedia.org/wiki/Rational_number
+376,Real valued functions,1,1,https://en.wikipedia.org/wiki/Real-valued_function
+377,Real Numbers,1,1,https://en.wikipedia.org/wiki/Real_number
+378,Reciprocal rule,1,1,https://en.wikipedia.org/wiki/Reciprocal_rule
+379,relu function,0,"0,0",https://en.wikipedia.org/wiki/Rectifier_(neural_networks)
+380,Regerssion analysis,3,3,https://en.wikipedia.org/wiki/Regression_analysis
+381,Relation (mathematics),1,"1,1",https://en.wikipedia.org/wiki/Relation_(mathematics)
+382,Riemann hypothesis,3,"3,3",https://en.wikipedia.org/wiki/Riemann_hypothesis
+383,Riemann Integral,3,"2,3,3",https://en.wikipedia.org/wiki/Riemann_integral
+384,Riemann Sum,2,"2,3",https://en.wikipedia.org/wiki/Riemann_sum
+385,right angled triangle,1,1,https://en.wikipedia.org/wiki/Right_triangle
+386,Rolle's Theorem,3,"1,2,3,3",https://en.wikipedia.org/wiki/Rolle%27s_theorem
+387,Roots of unity,2,"1,2,2,3",https://en.wikipedia.org/wiki/Root_of_unity
+388,Row echelon form,2,2,https://en.wikipedia.org/wiki/Row_echelon_form
+389,Sample space,1,"1,1",https://en.wikipedia.org/wiki/Sample_space
+390,Random Sampling,0,0,https://en.wikipedia.org/wiki/Sampling_(statistics)
+391,scalar multiplication,1,1,https://en.wikipedia.org/wiki/Scalar_(mathematics)
+392,multiplication by a scalar and product of matrice,1,"1,2",https://en.wikipedia.org/wiki/Scalar_multiplication
+393,Schwarz lemma,2,2,https://en.wikipedia.org/wiki/Schwarz_lemma
+394,Secant,1,1,https://en.wikipedia.org/wiki/Secant_line
+395,Section Formula,1,"1,1,1,1",https://en.wikipedia.org/wiki/Section_formula
+396,Semi-major and semi-minor axes,2,2,https://en.wikipedia.org/wiki/Semi-major_and_semi-minor_axes
+397,semicircle,1,1,https://en.wikipedia.org/wiki/Semicircle
+398,Separation of variables,2,2,https://en.wikipedia.org/wiki/Separation_of_variables
+399,Sequences,2,2,https://en.wikipedia.org/wiki/Sequence
+400,Series Mathematics,1,"1,1",https://en.wikipedia.org/wiki/Series_(mathematics)
+401,Set Builder Notation,1,1,https://en.wikipedia.org/wiki/Set-builder_notation
+402,Sets,1,"1,1,1",https://en.wikipedia.org/wiki/Set_(mathematics)
+403,set theory,1,"1,2",https://en.wikipedia.org/wiki/Set_theory
+404,Sheppard's correction for moments,3,3,https://en.wikipedia.org/wiki/Sheppard%27s_correction
+405,Sign function,2,2,https://en.wikipedia.org/wiki/Sign_function
+406,Singular value decomposition,2,2,https://en.wikipedia.org/wiki/Singular_value_decomposition
+407,Skew-Symmetric matrix,1,"1,2",https://en.wikipedia.org/wiki/Skew-symmetric_matrix
+408,Skew lines,2,"2,2,2",https://en.wikipedia.org/wiki/Skew_lines
+409,Slope,1,"1,1",https://en.wikipedia.org/wiki/Slope
+410,solutions of triangles,2,2,https://en.wikipedia.org/wiki/Solution_of_triangles
+411,Spherical Coordinate System,2,2,https://en.wikipedia.org/wiki/Spherical_coordinate_system
+412,Square Matrix,1,1,https://en.wikipedia.org/wiki/Square_matrix
+413,standard deviation,2,2,https://en.wikipedia.org/wiki/Standard_deviation
+414,stars and bars,2,2,https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)
+415,Stationary Point,1,1,https://en.wikipedia.org/wiki/Stationary_point
+416,Statistical dispersion,0,0,https://en.wikipedia.org/wiki/Statistical_dispersion
+417,Statistical Hypothesis Testing,2,2,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+418,Statistical Mathematics,2,2,https://en.wikipedia.org/wiki/Statistics
+419,Straight Line,1,1,https://en.wikipedia.org/wiki/Straight_Lines
+420,"Student,s T-distribution",3,3,https://en.wikipedia.org/wiki/Student%27s_t-distribution
+421,Subset,1,"1,1",https://en.wikipedia.org/wiki/Subset
+422,sums of finite arithmetic and geometric progressions,2,2,https://en.wikipedia.org/wiki/Summation
+423,Surface area,1,1,https://en.wikipedia.org/wiki/Surface_area
+424,Surface Integral,3,3,https://en.wikipedia.org/wiki/Surface_integral
+425,Symmetric Matrix,1,"1,1,3",https://en.wikipedia.org/wiki/Symmetric_matrix
+426,Symmetric Polynomial,0,0,https://en.wikipedia.org/wiki/Symmetric_polynomial
+427,Systems of Linear Equations,1,1,https://en.wikipedia.org/wiki/System_of_linear_equations
+428,equations of tangent,1,"1,1,1,2",https://en.wikipedia.org/wiki/Tangent
+429,half-angle formula,2,"2,3",https://en.wikipedia.org/wiki/Tangent_half-angle_formula
+430,Tangent lines to circles,2,2,https://en.wikipedia.org/wiki/Tangent_lines_to_circles
+431,Tangential and normal components,2,2,https://en.wikipedia.org/wiki/Tangential_and_normal_components
+432,Taylor series,3,3,https://en.wikipedia.org/wiki/Taylor_series
+433,Telescoping Series,2,2,https://en.wikipedia.org/wiki/Telescoping_series
+434,Tetrahedron,1,"1,1",https://en.wikipedia.org/wiki/Tetrahedron
+435,Matrices as a rectangular array of real numbers,1,1,https://en.wikipedia.org/wiki/The_Matrix
+436,Three dimensional space,2,2,https://en.wikipedia.org/wiki/Three-dimensional_space
+437,Transformation Function,0,0,https://en.wikipedia.org/wiki/Transformation_(function
+438,Transformation in Functions,3,3,https://en.wikipedia.org/wiki/Transformation_(function)
+439,shift of origin,0,0,https://en.wikipedia.org/wiki/Translation_of_axes
+440,Transpose of a Matrix,1,"1,1,1,1,2",https://en.wikipedia.org/wiki/Transpose
+441,angle between two lines,3,3,https://en.wikipedia.org/wiki/Transversal_(geometry)
+442,Relations between sides and angles of a triangle,0,"0,3",https://en.wikipedia.org/wiki/Triangle
+443,Triangle centre,0,0,https://en.wikipedia.org/wiki/Triangle_center
+444,Triangle inequality,1,"1,1,1",https://en.wikipedia.org/wiki/Triangle_inequality
+445,Triangular Distribution,1,1,https://en.wikipedia.org/wiki/Triangular_distribution
+446,Right Angled Definition of Trignometric functions,1,"1,1,1,1,1,1,2,2,2,2,2,3",https://en.wikipedia.org/wiki/Trigonometric_functions
+447,Trigonometry,1,1,https://en.wikipedia.org/wiki/Trigonometry
+448,Scalar Triple Product,2,"2,2,3",https://en.wikipedia.org/wiki/Triple_product
+449,truth table,0,0,https://en.wikipedia.org/wiki/Truth_table
+450,Two Dimensional Space,1,1,https://en.wikipedia.org/wiki/Two-dimensional_space
+451,Sets unions,1,1,https://en.wikipedia.org/wiki/Union_(set_theory)
+452,Unitary method,1,1,https://en.wikipedia.org/wiki/Unitary_method
+453,variance,2,2,https://en.wikipedia.org/wiki/Variance
+454,Vectors in maths,1,"1,1,1",https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)
+455,Vector algebra,2,2,https://en.wikipedia.org/wiki/Vector_algebra
+456,Vector calculus,2,"2,3",https://en.wikipedia.org/wiki/Vector_calculus
+457,Vector Space,1,"1,1",https://en.wikipedia.org/wiki/Vector_space
+458,Vieta Formula,1,"1,1",https://en.wikipedia.org/wiki/Vieta%27s_formulas
+459,Wald-Wolfowitz Run Test,1,1,https://en.wikipedia.org/wiki/Wald%E2%80%93Wolfowitz_runs_test
+460,Weibull distribution,2,2,https://en.wikipedia.org/wiki/Weibull_distribution
+461,Weighted Arithmetic Mean,1,1,https://en.wikipedia.org/wiki/Weighted_arithmetic_mean
+462,Wiener-Khinchin theorem,3,3,https://en.wikipedia.org/wiki/Wiener%E2%80%93Khinchin_theorem
+463,Zermelo Frankel Set Theory,0,0,https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory
