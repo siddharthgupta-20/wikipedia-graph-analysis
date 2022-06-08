@@ -18,5 +18,6 @@ the graph neural network cannot be applied here as the graph is quite large and 
 instead by comparing as above mentioned will give a better labeling to the nodes.
 
 node ordering:
+We tried to come up with an ordering algorithm such that for a given topic we could find the relevant pages and pass the ordering according to the labels we provide and the outlink that page carry. We design BFS, DFS and by label ordering.
 
 
